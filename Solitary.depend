@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1392172244 source:c:\users\tecno\documents\project c\solitary\carta.cpp
+	"Carta.h"
+
+1392172244 c:\users\tecno\documents\project c\solitary\carta.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<iostream>
+
+1392657623 source:c:\users\tecno\documents\project c\solitary\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<vector>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	<algorithm>
+	<list>
+	<cstdlib>
+	"Carta.h"
+	"Lista.h"
+	"Deck.h"
+	<iostream>
+
+1392481685 source:c:\users\tecno\documents\project c\solitary\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1392481685 c:\users\tecno\documents\project c\solitary\lista.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"Carta.h"
+
+1392574440 source:c:\users\tecno\documents\project c\solitary\deck.cpp
+	"Deck.h"
+
+1392574283 c:\users\tecno\documents\project c\solitary\deck.h
+	"Carta.h"
+	<iostream>
+
